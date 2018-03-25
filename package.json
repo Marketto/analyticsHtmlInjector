@@ -1,0 +1,31 @@
+{
+  "name": "analytics-html-injector",
+  "version": "0.2.1",
+  "description": "Quick inject analytcs snippet in your built html befor publish/upload",
+  "main": "index.js",
+  "bin": {
+    "injectAnalytics": "./commandline.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Marketto@github.com/Marketto/analyticsHtmlInjector.git"
+  },
+  "keywords": [
+    "analytics",
+    "inject",
+    "html",
+    "embed"
+  ],
+  "author": "Marco Ricupero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marketto/analyticsHtmlInjector/issues"
+  },
+  "homepage": "https://github.com/Marketto/analyticsHtmlInjector#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "commander": "^2.15.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
