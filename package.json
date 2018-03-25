@@ -1,6 +1,6 @@
 {
   "name": "analytics-html-injector",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Quick inject analytcs snippet in your built html befor publish/upload",
   "main": "index.js",
   "bin": {
