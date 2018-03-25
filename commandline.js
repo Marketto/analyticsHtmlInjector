@@ -11,7 +11,7 @@ program
     .description(package.description)
     .option('-i, --input <inputFile>', 'HTML file to read for injection', "./index.html")
     .option('-o, --output <outputFile>', 'Injected output file name', "./index.html")
-    .option('-G, --google <googleTrackingId>', 'Inject google analytics with provided tracking id (UA-XXXXX-Y)', /^UA\-\d{5}\-\d$/)
+    .option('-G, --google <googleTrackingId>', 'Inject google analytics with provided tracking id (UA-XXXXX-Y)', /^UA\-\d{5,12}\-\d$/)
     .parse(process.argv);
 
 program.inputFile = analyticsHtmlInjector.toAbsolutePath(program.inputFile);
