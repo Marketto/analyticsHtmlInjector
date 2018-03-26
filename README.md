@@ -1,7 +1,11 @@
 # Analytics HTML Injector
 
-[![NPM Version](http://img.shields.io/npm/v/analyticsHtmlInjector.svg?style=flat)](https://www.npmjs.org/package/analyticsHtmlInjector)
-[![NPM Downloads](https://img.shields.io/npm/dm/analyticsHtmlInjector.svg?style=flat)](https://npmcharts.com/compare/analyticsHtmlInjector?minimal=true)
+[![NPM Version](http://img.shields.io/npm/v/analytics-html-injector.svg?style=flat)](https://www.npmjs.org/package/analytics-html-injector)
+[![NPM Downloads](https://img.shields.io/npm/dm/analytics-html-injector.svg?style=flat)](https://npmcharts.com/compare/analytics-html-injector?minimal=true)
+[![Dependency status](https://david-dm.org/Marketto/analyticsHtmlInjector.svg)](https://david-dm.org/Marketto/analyticsHtmlInjector)
+![Build Status](http://ci.marketto.it/buildStatus/icon?job=Analytics%20HTML%20Injector)
+[![Blog](https://img.shields.io/badge/blog-marketto-blue.svg)](http://blog.marketto.it)
+[![Buy me a coffee](https://img.shields.io/badge/Ko--fi-donate-blueviolet)](https://ko-fi.com/marketto)
 
 Command line tool to quick inject Analytic snippet after build and before upload in your CI
 
@@ -21,11 +25,9 @@ analyticsHtmlInjector -G UA-12345-6
 analyticsHtmlInjector -G UA-12345-6 -i page.html -o injected.html
 ```
 
-## Author
 
-**Marco Ricupero** - [Github](https://github.com/Marketto) - [Blog](http://blog.marketto.it)
+## LICENSE
+[MIT License](LICENSE)
 
-
-## License
-
-This project is licensed under the MIT License - see the [License](/LICENSE) file for details
+## AUTHOR
+[Marco Ricupero](mailto:marco.ricupero@gmail.com)
