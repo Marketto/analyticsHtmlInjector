@@ -4,6 +4,7 @@
 [![NPM Downloads](https://img.shields.io/npm/dm/analytics-html-injector.svg?style=flat)](https://npmcharts.com/compare/analytics-html-injector?minimal=true)
 [![Dependency status](https://david-dm.org/Marketto/analyticsHtmlInjector.svg)](https://david-dm.org/Marketto/analyticsHtmlInjector)
 ![Build Status](http://ci.marketto.it/buildStatus/icon?job=Analytics%20HTML%20Injector)
+[![LICENSE](https://img.shields.io/badge/licese-MIT-gold.svg)](https://github.com/Marketto/analyticsHtmlInjector/blob/master/LICENSE)
 [![Blog](https://img.shields.io/badge/blog-marketto-blue.svg)](http://blog.marketto.it)
 [![Buy me a coffee](https://img.shields.io/badge/Ko--fi-donate-blueviolet)](https://ko-fi.com/marketto)
 
